@@ -6,3 +6,4 @@ mongoengine
 progressbar2
 python-dateutil
 passlib
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
